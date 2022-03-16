@@ -1,4 +1,4 @@
-# **Vinyl Collection** (Apollo-MERN-Mongo)
+# **Vinyl Collection**
 
 ## **Table of Contents**
 - [Description](#description)   
